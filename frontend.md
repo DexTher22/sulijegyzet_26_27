@@ -51,6 +51,33 @@ type="submit"
 type="button"
 type="reset" -- formban kitörli az összes elemet
 
+app.ts
+```
+export class App {
+  protected readonly title = signal('urlap');
+
+  name : string = 'asdf';
+  onStart() {
+    console.log('Műkszik...')
+    console.log(this.name)
+    this.name = 'pali'
+    console.log(this.name)
+  }
+}
+```
+app.html
+```
+<form (ngSubmit)="onStart()" >
+  <div>
+    <label for="name">Név</label>
+    <input id="name" type="text" [(ngModel)]="name" name="name" >
+  </div>
+  <div>
+    <button type="submit" >Küld</button>
+  </div>
+</form>
+```
+
 
 
 
