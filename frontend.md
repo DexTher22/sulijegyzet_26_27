@@ -1,4 +1,4 @@
-#2026-09-02
+# 2026-09-02
 
 vizsgaremek
 git humer_api
@@ -15,7 +15,7 @@ position.service
 ng g c position --type component
 ng g s position --type service
 
-#26-09-09
+# 26-09-09
 
 régen *ngIf
 ma: @if
@@ -42,7 +42,7 @@ _Szolgáltatás gyakorlat_
 ng new szoli
 
 
-#2026-09-16
+# 2026-09-16
 
 urlap/
 
