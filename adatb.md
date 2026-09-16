@@ -1,4 +1,4 @@
-2026-09-01
+# 2026-09-01
 
 normálformák
 
@@ -29,7 +29,7 @@ export  --  mysqldump -u <felhasználónév> -p <database neve> > <új file név
 import  --  mysql -u magyar -p magyar_pasta_company < magyar_pasta_company.sql
 
 
-2026-09-15
+# 2026-09-15
 
 magyar_education_te
 

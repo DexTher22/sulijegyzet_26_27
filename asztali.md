@@ -1,4 +1,4 @@
-2026-09-04
+# 2026-09-04
 
 mehet.jar -> mehet.exe
 
@@ -29,7 +29,7 @@ vagy 0010
 	 0010
 	 
 	 
-2026-09-07
+# 2026-09-07
 
 abstract
 
@@ -63,7 +63,7 @@ show databases;
 use bama;
 show tables;
 
-2026-09-14
+# 2026-09-14
 
 create.sqlite3-query
 
