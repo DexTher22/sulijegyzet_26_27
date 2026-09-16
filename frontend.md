@@ -51,6 +51,8 @@ type="submit"
 type="button"
 type="reset" -- formban kitörli az összes elemet
 
+### Form összekötése
+
 app.ts
 ```
 export class App {
@@ -76,6 +78,19 @@ app.html
     <button type="submit" >Küld</button>
   </div>
 </form>
+```
+
+
+### Legördülő mező for ciklussal
+
+html
+```
+<label for="city">Település</label>
+  <select name="city" id="city" [(ngModel)]="city" name="city">
+    @for(city of cities ; track city.id ) {
+      <option value="{{city.id}}">{{city.name}}</option>
+    }
+  </select>
 ```
 
 
