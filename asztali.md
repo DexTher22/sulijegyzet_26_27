@@ -4,8 +4,8 @@
 
 mehet.jar -> mehet.exe
 
-standard input 0
-standard output 1 -> System.out
+standard input 0  
+standard output 1 -> System.out  
 standard error 2 -> System.err
 
 java -jar mehet.jar > NUL   ->   Csak a hibák
@@ -13,7 +13,7 @@ java -jar mehet.jar > NUL   ->   Csak a hibák
 ">" standard kimenet átirányítása
 "NUL" kuka
 
-java -jar mehet.jar > normal.txt 2> hibak.txt  ->  file-ba irányítás
+java -jar mehet.jar > normal.txt 2> hibak.txt  ->  file-ba irányítás  
 java -jar mehet.jar >> normal.txt 2>> hibak.txt -> Hozzáfűzés
 
 java -jar mehet.jar > mind.txt 2>&1
@@ -38,58 +38,69 @@ vagy 0010
 
 abstract
 
-public abstract class Valami {
-	public abstract valami();
-}
+	public abstract class Valami {  
+		public abstract valami();
+	}
 
 
 
-interface
+interface  
 public interface Valami {}
 
 Laza függőség
 
-bama
-No build tools
+### bama
+
+No build tools  
 	Külső függőség használata
 	
 MariaDB -> XAMPP
 
-central.sonatype.com
+central.sonatype.com  
 mariadb-java-client  jdbc
 
-sql.Connection
+sql.Connection  
 sql.DriverManager
 
-mysql -u root
-show databases;
-create database bama;
-show databases;
-use bama;
-show tables;
+```
+mysql -u root  
+show databases;  
+create database bama;  
+show databases;  
+use bama;  
+show tables;  
+```
 
 ## 2026-09-14
+
+### bama
 
 create.sqlite3-query
 
 
 ## 2026-09-18
 
+
 Dolgozatok:
-1. : 2026-10-02  
-	Interface
-2. : 2026-10-19
-	állomány és adatbázis kezelés
-3. : 2026-12-04 témazáró (200%)
-	GUI?
+1. : 2026-10-02    
+	Interface  
+2. : 2026-10-19  
+	állomány és adatbázis kezelés  
+3. : 2026-12-04 témazáró (200%)  
+	GUI?  
 
 ### Interface gyakorlás  
 
 https://github.com/oktat/tan/blob/master/asztali_mobil/02_OOP.md#feladat-002
 
+### telefon/
 
+	Telefon.java  
+	Okostelefon.java  
 
+### Adatbázis kezelés bama/
 
+https://github.com/DexTher22/bama_java_adatb
 
 
 
