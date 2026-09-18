@@ -106,19 +106,19 @@ https://github.com/DexTher22/bama_java_adatb
 
 Új maven projekt
 
-vies/
-controllers/
-models/
- |-Employee.java
- |-Database.java
- |-Dataservice.java
- |-Mariadb.java
- |-Sqlite.java
+vies/  
+controllers/  
+models/  
+ |-Employee.java  
+ |-Database.java  
+ |-Dataservice.java  
+ |-Mariadb.java  
+ |-Sqlite.java  
  
 (
-models/
- |-dto/
- |-database/
+models/  
+ |-dto/  
+ |-database/  
 )
 
 https://github.com/DexTher22/bamav_java_adatb
