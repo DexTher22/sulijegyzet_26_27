@@ -1,4 +1,6 @@
-# 2026-09-04
+# Asztali és mobil alkalmazások
+
+## 2026-09-04
 
 mehet.jar -> mehet.exe
 
@@ -18,18 +20,21 @@ java -jar mehet.jar > mind.txt 2>&1
 
 2 számrendszer
 
-     0011
-vagy 0010
----------
-     0011
-     
-	 0011
-és   0010
----------
+```
+	 0011  
+vagy 0010  
+---------  
+	 0011  
+```
+```
+	 0011  
+és   0010  
+---------  
 	 0010
+```
 	 
 	 
-# 2026-09-07
+## 2026-09-07
 
 abstract
 
@@ -63,10 +68,24 @@ show databases;
 use bama;
 show tables;
 
-# 2026-09-14
+## 2026-09-14
 
 create.sqlite3-query
 
+
+## 2026-09-18
+
+Dolgozatok:
+1. : 2026-10-02  
+	Interface
+2. : 2026-10-19
+	állomány és adatbázis kezelés
+3. : 2026-12-04 témazáró (200%)
+	GUI?
+
+### Interface gyakorlás  
+
+https://github.com/oktat/tan/blob/master/asztali_mobil/02_OOP.md#feladat-002
 
 
 
