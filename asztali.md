@@ -81,7 +81,7 @@ create.sqlite3-query
 ## 2026-09-18
 
 
-Dolgozatok:
+### Dolgozatok:
 1. : 2026-10-02    
 	Interface  
 2. : 2026-10-19  
@@ -95,14 +95,33 @@ https://github.com/oktat/tan/blob/master/asztali_mobil/02_OOP.md#feladat-002
 
 ### telefon/
 
-	Telefon.java  
-	Okostelefon.java  
+Telefon.java  
+Okostelefon.java  
 
 ### Adatbázis kezelés bama/
 
 https://github.com/DexTher22/bama_java_adatb
 
+### bamav/
 
+Új maven projekt
+
+vies/
+controllers/
+models/
+ |-Employee.java
+ |-Database.java
+ |-Dataservice.java
+ |-Mariadb.java
+ |-Sqlite.java
+ 
+(
+models/
+ |-dto/
+ |-database/
+)
+
+https://github.com/DexTher22/bamav_java_adatb
 
 
 
