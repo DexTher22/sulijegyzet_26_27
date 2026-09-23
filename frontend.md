@@ -95,7 +95,22 @@ html
 
 ## signup/  -- regisztrációs felület
  https://github.com/DexTher22/signup_page_gyak
+ 
+ 
+#2026-09-23
 
+## /loginha
+
+https://github.com/DexTher22/loginha
+
+### Dolgozat:  
+
+?  
+
+### Gyakorlás:
+Feladat 302
+
+https://github.com/DexTher22/gula_feladat_302
 
 
 
