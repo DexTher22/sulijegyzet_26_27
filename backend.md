@@ -11,7 +11,7 @@ végpont - middlewatte - controller - service - model
 
     php artisan serve
 
-postman, insomnia, insomnium - adat megjelenítése   
+### postman, insomnia, insomnium - adat megjelenítése   
 
 ### Új .env appkey generálás
 
