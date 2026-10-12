@@ -4,21 +4,21 @@ végpont - middlewatte - controller - service - model
 
 ### Projekt létrehozása
 
-- composer create-project laravel/laravel Bemutato
+ composer create-project laravel/laravel Bemutato
 
 
 ### Szerver indítás
 
-- php artisan serve
+  php artisan serve
 
 postman, insomnia, insomnium - adat megjelenítése   
 
 ### Új .env appkey generálás
 
-- php artisan key:generate
+  php artisan key:generate
 
 ### php artisan parancsok
 
-- php artisan list
+  php artisan list
 
 https://github.com/backend2026N
