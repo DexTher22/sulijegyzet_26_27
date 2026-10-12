@@ -9,16 +9,16 @@ végpont - middlewatte - controller - service - model
 
 ### Szerver indítás
 
-  php artisan serve
+    php artisan serve
 
 postman, insomnia, insomnium - adat megjelenítése   
 
 ### Új .env appkey generálás
 
-  php artisan key:generate
+    php artisan key:generate
 
 ### php artisan parancsok
 
-  php artisan list
+    php artisan list
 
 https://github.com/backend2026N
