@@ -22,3 +22,8 @@ végpont - middlewatte - controller - service - model
     php artisan list
 
 https://github.com/backend2026N
+
+### composer ne vegye figyelembe a php verziót:
+
+    composer install --ignore-platform-req=php
+
