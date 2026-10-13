@@ -11,7 +11,7 @@ WHERE IN - csoportos keresésnél
 
 grant all privileges on `magyar\_%`.* to 'magyar'@'localhost' identified  by 'mark';
 
--user -host -password
+-user -host -password  
 mysql -u magyar -h 172.16.16.148 -p
 
 adatbázis lekérdezések:
