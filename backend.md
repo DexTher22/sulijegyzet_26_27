@@ -25,5 +25,8 @@ https://github.com/backend2026N
 
 ### composer ne vegye figyelembe a php verziót:
 
-    composer install --ignore-platform-req=php
+	composer install --ignore-platform-req=php
 
+### stubok láthatósága
+
+	php artisan stub:publish
