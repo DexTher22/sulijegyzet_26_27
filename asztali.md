@@ -124,6 +124,19 @@ models/
 https://github.com/DexTher22/bamav_java_adatb
 
 
+## 2026-10-16
+
+### kerdo/
+
+tasks.csv
+
+id:question:answer1:answer2:answer3:answer4:correct
+1:Mi a REST API?:Frontend keretrendszer:HTTP szerver:Pihenő idő:Programozói könyvtár:2
+2:Mi az Angular?:Backend keretrendszer:Java fejlesztőeszköz:Frontend keretrendszer:Kódszerkesztő:3
+
+MVC, mainScene.fxml  
+models/DataSource.java interface  
+models/FileDataSource.java class
 
 
 
