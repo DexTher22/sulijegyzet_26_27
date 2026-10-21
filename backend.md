@@ -30,3 +30,18 @@ https://github.com/backend2026N
 ### stubok láthatósága
 
 	php artisan stub:publish
+	
+## PHP 8.4 beállítása
+
+php_save mappa -> régi php
+php84 -> php 8.4
+
+php84 php.ini.development -> php.ini
+
+extensions = openssl
+extensions = fileinfo
+extensions = mbstring
+extensions = zip
+extension_dir = "ext"
+
+path változtatás a környezeti változókban, vagy másolás -> php
