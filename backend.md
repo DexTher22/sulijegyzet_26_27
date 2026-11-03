@@ -1,6 +1,6 @@
 # Laravel
 
-végpont - middlewatte - controller - service - model 
+végpont - middleware - controller - policy - service - model 
 
 ### Projekt létrehozása
 
@@ -43,5 +43,8 @@ extensions = fileinfo
 extensions = mbstring
 extensions = zip
 extension_dir = "ext"
+extensions = pdo_mysql
 
 path változtatás a környezeti változókban, vagy másolás -> php
+
+

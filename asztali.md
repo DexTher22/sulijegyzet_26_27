@@ -128,6 +128,8 @@ https://github.com/DexTher22/bamav_java_adatb
 
 ### kerdo/
 
+https://github.com/DexTher22/taskjavaFX
+
 tasks.csv
 
 id:question:answer1:answer2:answer3:answer4:correct
@@ -139,7 +141,11 @@ models/DataSource.java interface
 models/FileDataSource.java class
 
 
+## 2026-10-21
 
+### prodec/
+
+https://github.com/DexTher22/prodec  
 
 
 
