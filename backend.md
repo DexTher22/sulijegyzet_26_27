@@ -38,12 +38,12 @@ php84 -> php 8.4
 
 php84 php.ini.development -> php.ini
 
-extensions = openssl
-extensions = fileinfo
-extensions = mbstring
-extensions = zip
-extension_dir = "ext"
-extensions = pdo_mysql
+extensions = openssl  
+extensions = fileinfo   
+extensions = mbstring  
+extensions = zip  
+extension_dir = "ext"  
+extensions = pdo_mysql  
 
 path változtatás a környezeti változókban, vagy másolás -> php
 
