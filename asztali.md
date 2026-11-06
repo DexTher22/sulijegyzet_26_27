@@ -149,7 +149,16 @@ https://github.com/DexTher22/prodec
 
 
 
+## 2026-11-06
 
+### Dolgozat: 12-04 REST API
+
+### humerdesktop
+
+api:  
+https://github.com/oktatapi/humerlar
+
+https://github.com/DexTher22/humerDesktopFX
 
 
 
