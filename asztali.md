@@ -161,7 +161,11 @@ https://github.com/oktatapi/humerlar
 https://github.com/DexTher22/humerDesktopFX
 
 
+## 2026-11-26
 
+### stilus
+
+npx create-expo-app stilus --template blank
 
 
 

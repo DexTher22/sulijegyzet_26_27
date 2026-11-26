@@ -48,3 +48,21 @@ extensions = pdo_mysql
 path változtatás a környezeti változókban, vagy másolás -> php
 
 
+## 2026-11-10
+
+### Timestamp ignorálása modellben
+
+    public $timestamps = false; 
+
+
+### parancsok
+
+fresh migrate seed-del
+
+    php artisan migrate:fresh --seed
+
+parancs létrehozása
+
+    php artisan make:command CreateServiceCommand
+
+
